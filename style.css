@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin-top: 0;
     margin-right: 0;
@@ -96,4 +97,102 @@ footer p{
 }
 .P1 a:hover{
     color: #EB662B;
+=======
+*{
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+.P1 img{
+    margin-left: 15px;
+}
+
+.P1{
+    background-color: #FEF7F4;
+    height: 50px;
+}
+.login{
+    padding: 5px;
+    border: none;
+    background-color: #EB662B;
+}
+#log{
+    color: white;
+}
+.P1 a{
+    text-decoration: none;
+    color: black;
+}
+.P1 ul{
+    margin-top: -26px;
+    margin-left: 15%;
+    list-style-type: none;
+    display: flex;
+    gap: 3.1em;
+}
+.P1 img{
+    margin-top: 8px;
+}
+.P2{
+    background-color: white;
+}
+.P2 h1{
+    margin-top: 110px;
+    margin-left: 85px;
+    font-size: 50px;
+}
+#jamais{
+    color: #EB662B;
+}
+.P2 p{
+    margin-top: 15px;
+    margin-left: 85px;
+}
+.P2 img{
+    margin-top:-360px;
+    width: 400px;
+    margin-left: 56%;
+}
+.P2 a{
+    text-decoration: none;
+    color: white;
+}
+.P2 button{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #EB662B;
+    margin-left:85px ;
+    border: none;
+}
+.porqoi{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.P3{
+    margin-top: 40px;
+    margin-left: 40px;
+    display: flex;
+    gap: 3.1em;
+}
+.P3 h3{
+    margin-top: 20px;
+}
+.P3 p{
+    margin-top: 20px;
+}
+footer{
+    padding-top:40px ;
+    padding-bottom: 40px;
+    margin-top: 150px;
+    background-color: #FEF7F4;
+
+}
+footer h2{
+    margin-left: 45px;
+}
+footer p{
+    margin-top: 20px;
+    margin-left: 45px;
+>>>>>>> b0852171b650709b0fb2f3078b09af0bc0f00096
 }
